@@ -1,49 +1,50 @@
-rivacy Policy
+Privacy Policy
+Last updated: July 8, 2025
 
-Manṣat al-Sulṭān (“I”) takes your privacy seriously. To better protect your privacy, I provide this privacy policy notice explaining the way your personal information is collected and used.
+Manṣat al-Sulṭān ("we", "our", "us") values your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect the information provided through our mobile application.
 
-⸻
+1. Data Collection
+We do not collect any personal information for tracking or advertising purposes.
 
-Collection of Routine Information
+We only collect limited data to provide core functionality of the app, such as:
 
-This app tracks basic information about its users. This information includes, but is not limited to, IP addresses, device details, timestamps, and referring pages. None of this information can personally identify specific users of this app. The information is tracked for routine administration and maintenance purposes.
+Name, email, and phone number when voluntarily submitted during account registration.
 
-⸻
+Uploaded photos and videos by the user for assignments or profile images.
 
-Access to Photos and Videos
+Diagnostic data (such as crash reports) to improve app stability.
 
-This app may request access to images and video files on your device. This is only used to allow you to upload profile pictures, submit educational assignments, or attach relevant media as part of the learning experience. The app accesses these files only when you manually initiate an upload action.
+None of this data is shared with third parties or used for tracking across apps or websites.
 
-⸻
+2. Use of Data
+All collected data is used solely for the following purposes:
 
-Cookies
+Enabling user login and secure account access.
 
-This app does not use cookies directly. However, linked websites may use cookies to store information about a visitor’s preferences and history to better serve them with customized content.
+Submitting assignments or profile pictures.
 
-⸻
+Providing customer support.
 
-Third-Party Links
+Improving app functionality and resolving technical issues.
 
-This app includes links to third-party websites for educational purposes. I am not responsible for the privacy policies on these websites. You are advised to review their privacy policies individually, as they may differ from mine.
+We do not use any data for marketing, third-party advertising, or behavioral tracking.
 
-⸻
+3. Photos and Videos
+The app may request access to your media library (photos and videos), but only when you manually choose to upload a file. We do not access your media automatically or in the background.
 
-Security
+4. Analytics
+We use basic usage analytics to improve app performance. These statistics are anonymous and not linked to personal identity.
 
-The security of your personal information is important to me, but please note that no method of transmission over the Internet or electronic storage is 100% secure. While I strive to use commercially acceptable means to protect your data, I cannot guarantee absolute security.
+5. Security
+We use commercially reasonable means to protect your data. However, no internet transmission is 100% secure. Users are encouraged to use strong passwords and protect their accounts.
 
-⸻
+6. No Third-Party Login
+The app does not use third-party login systems such as Google or Facebook. All authentication is managed locally within the app through our own server.
 
-Changes To This Privacy Policy
+7. Changes to Policy
+We may update this Privacy Policy from time to time. Any significant changes will be communicated in-app or via email.
 
-This Privacy Policy is effective as of May 27, 2025, and will remain in effect except with respect to any changes in its provisions in the future. Updates will be posted on this page.
-
-I reserve the right to update or change this Privacy Policy at any time. Please check this page periodically for changes. If any significant changes are made, you will be notified via email or through an in-app notice.
-
-⸻
-
-Contact Information
-
-For any questions or concerns regarding this Privacy Policy, please contact:
-
+8. Contact
+For any questions, please contact:
 📧 support@sultanplatform.com
+
